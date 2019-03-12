@@ -1,0 +1,12 @@
+微信7.0.0
+红包路径：
+com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyNotHookReceiveUI
+com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI
+参数：
+this.nzG = getIntent().getStringExtra("key_native_url");
+this.nDn = getIntent().getStringExtra("key_cropname");//好像一直是空
+key_username
+
+
+
+com.tencent.mm.ui.LauncherUI
