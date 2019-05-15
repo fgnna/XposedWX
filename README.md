@@ -1,2 +1,2 @@
 # XposedWX
-自用的，基于xposed框架的微信抢红包
+自用的，基于android平台的xposed框架微信抢红包
